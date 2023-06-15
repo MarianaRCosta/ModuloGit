@@ -1,0 +1,38 @@
+[33mcommit 1fabe387fa62c2dfd94deece8d6dc2049e752fa1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mariana Rocha <m.r.costa776@gmail.com>
+Date:   Wed Jun 14 09:36:48 2023 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 71 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 71 insertions(+)
+
+[33mcommit e9c6d63dc450e6666421b33e97f97e07fd25bbf4[m
+Author: Mariana Rocha <m.r.costa776@gmail.com>
+Date:   Fri Jun 9 15:46:13 2023 -0300
+
+    Complementando pergunta no arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m52[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 33c7b17af346dfa8f28e10d39dfbd3d487c0d9c3[m
+Author: Mariana Rocha <m.r.costa776@gmail.com>
+Date:   Fri Jun 9 15:38:35 2023 -0300
+
+    alterando o conteúdo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m28[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ef7a3f5ab95e8afb27e02d664c8392ae66f0cc5b[m
+Author: Mariana Rocha <m.r.costa776@gmail.com>
+Date:   Fri Jun 9 15:35:04 2023 -0300
+
+    Inclusão de novos arquivos
+    
+    Inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m28[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
